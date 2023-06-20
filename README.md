@@ -1,8 +1,14 @@
 # Robotics 
 Learn robotics by youself
+
 # Contents
+
+###  Resources
 [YouTube](https://github.com/manojm-dev/Robotics/blob/main/README.md#youtube)
+
 # Summary
+This rep consist of materials and resources for learning robotics from scratch
+
 # YouTube
 [1)Robotics Back-End](https://www.youtube.com/@RoboticsBackEnd)
 
