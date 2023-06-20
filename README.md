@@ -4,12 +4,20 @@ Learn robotics by youself
 # Contents
 
 ###  Resources
-[YouTube Channels](https://github.com/manojm-dev/Robotics/blob/main/README.md#youtube)
+[Youtube Channels](https://github.com/manojm-dev/Robotics/blob/main/README.md#youtube)
+
+[Coursera Courses](https://github.com/manojm-dev/Robotics/blob/main/README.md#coursera)
+
+[EdX Courses](https://github.com/manojm-dev/Robotics/blob/main/README.md#edx)
 
 # Summary
 This rep consist of materials and resources for learning robotics from scratch
 
-# YouTube
+# Coursera
+
+# EdX
+
+# Youtube
 [1)Robotics Back-End](https://www.youtube.com/@RoboticsBackEnd)
 
 [2)Hummingbird Robotics](https://www.youtube.com/@hummingbird19/videos)
